@@ -5,7 +5,6 @@ import pytesseract
 from matplotlib import pyplot as plt
 import numpy as np
 
-app=Flask(__name__)
 
 def license_detect(path):
     image = cv2.imread(path)
