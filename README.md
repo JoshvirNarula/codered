@@ -17,7 +17,7 @@ method2: local deployment of app:
   step1: install all files in the github repo to your system in a folder
   step2: open app.py and install all required packages
   step4:run app.py
-  step5: open the local host url in the terminal(http://127.0.0.1:3000)
+  step5: open the local host url in the terminal(eg http://127.0.0.1:3000)
   step6:click upload and upload image
   step7:click predict
 
